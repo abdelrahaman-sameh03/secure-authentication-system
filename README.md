@@ -256,6 +256,3 @@ GitHub: [abdelrahaman-sameh03](https://github.com/abdelrahaman-sameh03)
 
 ---
 
-## 📌 Notes
-
-This project is designed for educational purposes and runs locally using XAMPP.
